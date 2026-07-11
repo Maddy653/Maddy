@@ -1,0 +1,6 @@
+{
+  "name": "Room Rent & Electricity Bill Manager",
+  "description": "Manage room rents, tenant details, electricity meter readings, calculate bills automatically, track payment statuses, and generate PDF receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
